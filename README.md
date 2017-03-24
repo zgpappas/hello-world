@@ -3,4 +3,5 @@ New repository to get started.
 
 This my first ReadMe on Github.  Hooray!
 
-Editing in reademe-edit branch now.  Double Hooray!
+Now I am editing this in my first Github branch.  Double Hooray!
+
